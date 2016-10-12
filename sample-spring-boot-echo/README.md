@@ -28,7 +28,7 @@ You need to get channel access token and channel secret from LINE Developers.
 
 Tap deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/be-hase/line-bot-sdk-java/tree/heroku-test/sample-spring-boot-echo)
 
 ### Step 3
 
